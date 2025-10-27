@@ -1,5 +1,4 @@
-# IS211_Assignment8.py Pig game with Factory + Timed Proxy
-# Run examples to use:
+# types of examples to use:
 #   python IS211_Assignment8.py --player1 human --player2 computer
 #   python IS211_Assignment8.py --player1 computer --player2 computer
 #   python IS211_Assignment8.py --player1 computer --player2 computer --timed
